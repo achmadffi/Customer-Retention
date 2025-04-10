@@ -7,5 +7,5 @@ File yang tersedia
 
 1. README.md
 2. transaction_data_full.csv
-3. Rasio Retensi.sql
+3. Rasio Retention.sql
 4. Rate Retention.pdf
