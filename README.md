@@ -1,11 +1,11 @@
 # Customer Retention
 SQL for Data Analyst
 
-Project ini dibuat untuk mencari tahu persentase pelanggan yang tetap menggunakan produk atau layanan menggunakan SQL.
+Project ini dibuat untuk mencari tahu persentase pelanggan yang tetap menggunakan produk atau layanan menggunakan SQL dan memberikan rekomendasi untuk mempertahankan pelanggan.
 
 File yang tersedia
 
 1. README.md
 2. transaction_data_full.csv
 3. Rasio Retention.sql
-4. Rate Retention.pdf
+4. Rate Retention.pdf (Hasil dari project)
